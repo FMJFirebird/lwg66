@@ -3,8 +3,18 @@
 Es sind weitere Liveries geplant und regelmäßige Updates werden folgen. Zur Zeit gibt es die unten stehenden Liveries, inklusive der AI-Flugzeuge: KC-130, KC-135/-MPRS, IL78M.
 
 <b>Installations- und Update-Anleitung</b><br>
-1.) Liveries als .rar-Datei downloaden<br>
-2.) .rar-Datei entpacken<br>
+Empfohlener Installationsweg:<br>
+1.) GIT unter https://git-scm.com/ herunterladen und installieren. Bei der Installation werden einige Optionen angeboten. Hier einfach die Default Einstellungen beibehalten.<br>
+2.) In dem Channel # liveries des TaktLwG 66 (https://discord.gg/QDgMmBk) die beiden Batchdateien "cleanup.bat" und "init_git_repo.bat" herunterladen und IN DAS DCS Verzeichnis!!! (z.B. "D:\DCS World OpenBeta") legen.<br>
+( 3.) NUR BEI VORHANDENEM ALTEM LIVERY-PAKET: Zuerst einmal die "cleanup.bat" ausgeführen. Diese Datei löscht rekursiv alle Verzeichnisse, welche "TaktLWG" im Namen enthalten. )<br>
+4. Danach muss einmal die "init_git_repo.bat" ausgeführt werden. Diese Batchdatei legt ein neues Repository im DCS Verzeichnis an und lädt die Liveries direkt von GitHub runter.<br>
+5. Die beiden Batchdateien können danach wieder gelöscht werden.<br>
+6. Für alle zukünftigen Livery Updates: In dem DCS Verzeichnis gibt es nun die "update_liveries.bat". Wenn diese Datei ausgeführt wird, erfolg automatisch ein Update der Liveries auf die letzte Version. Da es sich um ein inkrementelles Update handelt, sollte es relativ schnell gehen.<br>
+7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
+
+Alternativer (alter) Weg (ohne Möglichkeit später inkrementelle Updates durchzuführen): <br>
+1.) Liveries als .zip-Datei downloaden<br>
+2.) .zip-Datei entpacken<br>
 3.) die beiden Ordner "Bazar" und "Coremods" kopieren<br>
 4.) unter z.B (Installationsort weicht ab, wenn DCS nicht auf der Festplatte C installiert wurde)  "C:\program files\Eagle Dynamics\DCS World OpenBeta" beide Ordner einfügen, er ersetzt nur die Dateien, welche schon vorhanden sind, Ordner werden nicht überschrieben, nur fehlende werden hinzugefügt.<br>
 5.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden. Bei der F-14b muss immer der Pilot das Liverie mit seinem Namen wählen, somit ist immer auch der Name für den RIO richtig, zu dem kann ich nur für feste F-14 Kombis aus Pilot und RIO Liveries erstellen, da es sonst extrem aufwendig wird.<br>
@@ -65,6 +75,7 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
+- 22.09.2020 Anleitung ergänzt
 - 21.09.2020 Refactoring alles Liveries
 - 04.01.2020 F-14 hinzugefügt
 - 05.01.2020 Heli-Update: KA-50, Mi8, UH-1H und AJS-37 hinzugefügt, fehlenden Treibstoffbehälter der F/A-18C ergänzt
