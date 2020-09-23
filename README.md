@@ -6,6 +6,7 @@ Es sind weitere Liveries geplant und regelmäßige Updates werden folgen. Zur Ze
 Empfohlener Installationsweg:<br>
 1.) GIT unter https://git-scm.com/ herunterladen und installieren. Bei der Installation werden einige Optionen angeboten. Hier einfach die Default Einstellungen beibehalten.<br>
 2.) In dem Channel # liveries des TaktLwG 66 (https://discord.gg/QDgMmBk) die beiden Batchdateien "cleanup.bat" und "init_git_repo.bat" herunterladen und IN DAS DCS Verzeichnis!!! (z.B. "D:\DCS World OpenBeta") legen.<br>
+- Anmerkung: Die nächsten beiden Schritte lassen sich i.d.R. direkt im Explorer ausführen. Ausnahme stellen DCS Installation im Verzeichnis "C:\Programme\..." dar, da Windows diese zusätzlich schützt. Um hier die Installation vornehmen zu können, muss man die Kommandozeilenkonsole mit administrativen Rechten starten (Windowszeichen unten links, "cmd" eingeben, rechtsklick auf "Eingabeaufforderung"). 
 ( 3.) NUR BEI VORHANDENEM ALTEM LIVERY-PAKET: Zuerst einmal die "cleanup.bat" ausgeführen. Diese Datei löscht rekursiv alle Verzeichnisse, welche "TaktLWG" im Namen enthalten. )<br>
 4. Danach muss einmal die "init_git_repo.bat" ausgeführt werden. Diese Batchdatei legt ein neues Repository im DCS Verzeichnis an und lädt die Liveries direkt von GitHub runter.<br>
 5. Die beiden Batchdateien können danach wieder gelöscht werden.<br>

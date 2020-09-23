@@ -78,7 +78,7 @@ livery = {
 
 }
 
-name = "TaktLwG 66 - Coldgas"
+name = "TaktLwG 66 - coldgas"
 
 custom_args =
 {
