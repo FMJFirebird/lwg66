@@ -76,6 +76,7 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
+- 23.09.2020 Typo in coldgas liveries gefixt + Anleitung verbessert.
 - 22.09.2020 Anleitung ergänzt
 - 21.09.2020 Refactoring alles Liveries
 - 04.01.2020 F-14 hinzugefügt
