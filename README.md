@@ -41,6 +41,7 @@ Bisher enthaltene Liveries:
 - M-2000C     erstellt von Shelter/Dominik
 - Mi-8        erstellt von Shelter/Dominik
 - UH-1H       erstellt von Shelter/Dominik
+- MIG-29S     erstellt von Firbird
 
 Zur Installation der Liveries bitte der Ordnerstrucktur folgen und den Ordner "TaktLWG 66" in den entsprechenden Ordner kopieren.
 Bitte auch die Liveries installieren, von denen ihr die Module nicht besitzt, so ist es bei Screenshots aber so, dass ihr die Liveries der Piloten die dieses Modul besitzen seht und somit auch auf dem Screenshot zu sehen sind.
@@ -60,6 +61,7 @@ Module unter Zielordner 1:
 - IL78M
 - Mi-8
 - UH-1H
+- MIG-29S 
 
 Zielordner 2: "Euer Installationsmedium von DCS z.B.:" C:\Program Files\Eagle Dynamics\DCS World OpenBeta\CoreMods\aircraft\"das entsprechende Modul"\Liveries\"das entsprechende Modul"
 
@@ -76,6 +78,7 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
+- 11.10.2020 Einführung MIG-29S
 - 23.09.2020 Typo in coldgas liveries gefixt + Anleitung verbessert.
 - 22.09.2020 Anleitung ergänzt
 - 21.09.2020 Refactoring alles Liveries
