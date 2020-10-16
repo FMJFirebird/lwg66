@@ -55,3 +55,4 @@ livery = {
 	{"mig29ptb-1500", ROUGHNESS_METALLIC ,"ptb-1500_RoughMet",true};
 	{"ptb-1150", ROUGHNESS_METALLIC ,"ptb-1150_RoughMet",true};	
 }
+name = "TaktLWG-66"
