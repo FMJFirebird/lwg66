@@ -80,6 +80,7 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
+- 18.10.2020 Liveries für Axel F.
 - 16.10.2020 Liveries für Phönix + Erster Prototyp SU-33
 - 11.10.2020 Einführung MIG-29S
 - 23.09.2020 Typo in coldgas liveries gefixt + Anleitung verbessert.
