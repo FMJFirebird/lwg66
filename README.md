@@ -80,6 +80,7 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
+- 25.10.2020 Liveries für Dropper hinzugefügt
 - 19.10.2020 SU-33 Liveries hinzugefügt
 - 18.10.2020 Liveries für Axel F.
 - 16.10.2020 Liveries für Phönix + Erster Prototyp SU-33
