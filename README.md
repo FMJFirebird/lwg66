@@ -53,6 +53,7 @@ Zielordner 1: "Euer Installationsmedium von DCS z.B.:"  C:\program files\Eagle D
 
 Module unter Zielordner 1:
 - A10C
+- A10C II
 - Bf-109K4
 - F-15C
 - Fw-190 A8
@@ -80,6 +81,7 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
+- 25.10.2020 Liveries für die A10C II hinzugefügt
 - 25.10.2020 Liveries für Dropper hinzugefügt
 - 19.10.2020 SU-33 Liveries hinzugefügt
 - 18.10.2020 Liveries für Axel F.
