@@ -81,6 +81,7 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
+- 28.10.2020 Wolfpack Liveries für Axel F.
 - 27.10.2020 F-14 "Rote Gefahr" hinzugefügt
 - 25.10.2020 Liveries für die A10C II hinzugefügt
 - 25.10.2020 Liveries für Dropper hinzugefügt
