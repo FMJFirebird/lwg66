@@ -81,6 +81,7 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
+- 15.11.2020 Wolfpack Liveries für Brainiac
 - 12.11.2020 kleiner Fehlerbeseitigung bei einigen Lua Description Dateien
 - 28.10.2020 Wolfpack Liveries für Axel F.
 - 27.10.2020 F-14 "Rote Gefahr" hinzugefügt
