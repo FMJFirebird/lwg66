@@ -3,8 +3,8 @@ livery = {
 
 --Diffuse  -----------------------------------
 
-{"HB_F14_EXT_01", 0 ,"../TaktLwG 66 - Stunt/HB_F14_EXT_01",false};
-{"HB_F14_EXT_02", 0 ,"../TaktLwG 66 - Stunt/HB_F14_EXT_02",false};
+{"HB_F14_EXT_01", 0 ,"HB_F14_EXT_01",false};
+{"HB_F14_EXT_02", 0 ,"HB_F14_EXT_02",false};
 {"HB_F14_EXT_03", 0 ,"../TaktLwG 66/HB_F14_EXT_03",false};
 {"HB_F14_EXT_04", 0 ,"../TaktLwG 66/HB_F14_EXT_04",false};
 {"HB_F14_EXT_TAIL", 0 ,"../TaktLwG 66/HB_F14_EXT_TAIL_WOLFPACK_SPECIAL",false};
