@@ -81,6 +81,7 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
+- 22.11.2020 F-18 Howling Puppies Livery hinzugefügt.
 - 19.11.2020 Korrektur bei Stunt F-14 Livery (spec.) 
 - 18.11.2020 F-14 Livery für Noserat hinzugefügt
 - 15.11.2020 Wolfpack Liveries für Brainiac
