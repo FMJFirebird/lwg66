@@ -2,7 +2,7 @@ livery = {
 
 	{"AV8B1", 0 ,"AV8_T1_Takt",false};
 	{"AV8B2", 0 ,"../TaktLwG 66/AV8_T2_Takt",false};
-	{"AV8B3", 0 ,"../TaktLwG 66/AV8_T3_Takt_WOLFPACK",false};
+	{"AV8B3", 0 ,"../TaktLwG 66/AV8_T3_Takt_PUPPIES",false};
 	{"AV8B4", 0 ,"../TaktLwG 66/AV8_T4_Takt",false};
 	{"AV8B7", 0 ,"../TaktLwG 66/AV8_T7_Takt",false};
 	{"AV8B8", 0 ,"../TaktLwG 66/AV8_T8_Takt",false};
@@ -23,19 +23,19 @@ livery = {
 	{"AV8B_T2_FUSE10", 0 ,"../TaktLwG 66/AV8_T2_Takt",false};
 	{"AV8B_T2_FUSE10", DECAL ,"empty",true};
 	
-	{"AV8B_T3_FUSE1", 0 ,"../TaktLwG 66/AV8_T3_Takt_WOLFPACK",false};
+	{"AV8B_T3_FUSE1", 0 ,"../TaktLwG 66/AV8_T3_Takt_PUPPIES",false};
 	{"AV8B_T3_FUSE1", DECAL ,"empty",true};
 	
-	{"AV8B_T3_FUSE10", 0 ,"../TaktLwG 66/AV8_T3_Takt_WOLFPACK",false};
+	{"AV8B_T3_FUSE10", 0 ,"../TaktLwG 66/AV8_T3_Takt_PUPPIES",false};
 	{"AV8B_T3_FUSE10", DECAL ,"empty",true};
 	
-	{"AV8B_T3_TAIL1", 0 ,"../TaktLwG 66/AV8_T3_Takt_WOLFPACK",false};
+	{"AV8B_T3_TAIL1", 0 ,"../TaktLwG 66/AV8_T3_Takt_PUPPIES",false};
 	{"AV8B_T3_TAIL1", DECAL ,"empty",true};
 	
-	{"AV8B_T3_TAIL10", 0 ,"../TaktLwG 66/AV8_T3_Takt_WOLFPACK",false};
+	{"AV8B_T3_TAIL10", 0 ,"../TaktLwG 66/AV8_T3_Takt_PUPPIES",false};
 	{"AV8B_T3_TAIL10", DECAL ,"empty",true};
 	
-	{"AV8B_T3_TAIL100", 0 ,"../TaktLwG 66/AV8_T3_Takt_WOLFPACK",false};
+	{"AV8B_T3_TAIL100", 0 ,"../TaktLwG 66/AV8_T3_Takt_PUPPIES",false};
 	{"AV8B_T3_TAIL100", DECAL ,"empty",true};
 	
 
