@@ -81,6 +81,7 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
+- 06.12.2020 Liveries für Forgety hinzugefügt
 - 03.12.2020 Howling Puppies Liveries für F-14, F-16, AV8BNA hinzugefügt 
 - 22.11.2020 F-18 Howling Puppies Livery hinzugefügt.
 - 19.11.2020 Korrektur bei Stunt F-14 Livery (spec.) 
