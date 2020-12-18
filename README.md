@@ -81,6 +81,7 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
+- 18.12.2020 Liveries für Jimbo hinzugefügt
 - 07.12.2020 Spearfisher Liveries für Forgety
 - 06.12.2020 Liveries für Forgety hinzugefügt
 - 03.12.2020 Howling Puppies Liveries für F-14, F-16, AV8BNA hinzugefügt 
