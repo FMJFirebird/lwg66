@@ -81,6 +81,7 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
+- 22.12.2020 KA-50 Rework von Lanze
 - 18.12.2020 Liveries für Jimbo hinzugefügt
 - 07.12.2020 Spearfisher Liveries für Forgety
 - 06.12.2020 Liveries für Forgety hinzugefügt
