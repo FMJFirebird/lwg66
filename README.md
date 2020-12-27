@@ -81,6 +81,7 @@ Module unter Zielordner 2:
 - M-2000C 
 
 Änderungen/Changlog:
+- 28.12.2020 KA-50 Typo fixed
 - 23.12.2020 Polished Santaforce, Baby!
 - 22.12.2020 Santaforce, Baby!
 - 22.12.2020 KA-50 Rework von Lanze
