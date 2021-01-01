@@ -1,9 +1,9 @@
 livery = {
 {"F16_bl50_Engine", DIFFUSE, "../TaktLWG 66/f16_bl50_engine", false};
 {"F16_bl50_Engine", ROUGHNESS_METALLIC, "../TaktLWG 66/f16_bl50_engine_roughmet", false};
-{"F16_bl50_wing_L", DIFFUSE, "../TaktLWG 66/f16_bl50_wing_l_DARKSTAR", false};
+{"F16_bl50_wing_L", DIFFUSE, "../TaktLWG 66/f16_bl50_wing_l_WOLFPACK", false};
 {"F16_bl50_wing_L", ROUGHNESS_METALLIC, "../TaktLWG 66/f16_bl50_wing_l_roughmet", false};
-{"F16_bl50_wing_R", DIFFUSE, "../TaktLWG 66/f16_bl50_wing_r_DARKSTAR", false};
+{"F16_bl50_wing_R", DIFFUSE, "../TaktLWG 66/f16_bl50_wing_r_WOLFPACK", false};
 {"F16_bl50_wing_R", ROUGHNESS_METALLIC, "../TaktLWG 66/f16_bl50_wing_r_roughmet", false};
 {"F16_bl50_Main_1", DIFFUSE, "f16_bl50_main_1", false};
 {"F16_bl50_Main_1", ROUGHNESS_METALLIC, "../TaktLWG 66/f16_bl50_main_1_roughmet", false};
